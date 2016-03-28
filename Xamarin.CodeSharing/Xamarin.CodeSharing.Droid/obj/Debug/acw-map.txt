@@ -1,0 +1,4 @@
+Xamarin.CodeSharing.Droid.MainActivity, Xamarin.CodeSharing.Droid;md53302c7d43b34f82149f94721c77582ef.MainActivity
+Xamarin.CodeSharing.Droid.MainActivity, Xamarin.CodeSharing.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53302c7d43b34f82149f94721c77582ef.MainActivity
+Xamarin.CodeSharing.Droid.MainActivity;md53302c7d43b34f82149f94721c77582ef.MainActivity
+xamarin.codesharing.droid.MainActivity;md53302c7d43b34f82149f94721c77582ef.MainActivity

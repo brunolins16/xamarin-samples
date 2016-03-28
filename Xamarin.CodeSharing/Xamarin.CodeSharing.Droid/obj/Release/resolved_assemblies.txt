@@ -1,0 +1,8 @@
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Droid\obj\Release\android\assets\Xamarin.CodeSharing.Droid.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Droid\obj\Release\android\assets\Mono.Android.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Droid\obj\Release\android\assets\mscorlib.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Droid\obj\Release\android\assets\System.Core.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Droid\obj\Release\android\assets\System.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Droid\obj\Release\android\assets\System.Xml.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll

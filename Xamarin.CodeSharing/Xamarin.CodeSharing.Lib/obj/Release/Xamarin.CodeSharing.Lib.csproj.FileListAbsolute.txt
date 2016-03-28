@@ -1,0 +1,14 @@
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\Xamarin.CodeSharing.Lib.dll.config
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\Xamarin.CodeSharing.Lib.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\Xamarin.CodeSharing.Lib.pdb
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\Newtonsoft.Json.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\System.Net.Http.Extensions.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\System.Net.Http.Primitives.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\Newtonsoft.Json.xml
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\System.Net.Http.Extensions.xml
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\bin\Release\System.Net.Http.Primitives.xml
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\obj\Release\Xamarin.CodeSharing.Lib.csproj.App.config
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\obj\Release\Xamarin.CodeSharing.Lib.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Lib\obj\Release\Xamarin.CodeSharing.Lib.pdb

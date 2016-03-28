@@ -1,0 +1,12 @@
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\Xamarin.CodeSharing.Tests.dll.config
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\Xamarin.CodeSharing.Tests.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\Xamarin.CodeSharing.Tests.pdb
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\nunit.framework.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\Xamarin.CodeSharing.Droid.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\Xamarin.UITest.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\Xamarin.CodeSharing.Droid.pdb
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\nunit.framework.xml
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\bin\Release\Xamarin.UITest.xml
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\obj\Release\Xamarin.CodeSharing.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\obj\Release\Xamarin.CodeSharing.Tests.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.Tests\obj\Release\Xamarin.CodeSharing.Tests.pdb

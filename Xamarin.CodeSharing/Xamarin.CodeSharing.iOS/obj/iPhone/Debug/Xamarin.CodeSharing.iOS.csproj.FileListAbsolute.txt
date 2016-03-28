@@ -1,0 +1,15 @@
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\XamarinCodeSharingiOS.exe
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\XamarinCodeSharingiOS.pdb
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\Calabash.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\Xamarin.CodeSharing.Lib.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\Xamarin.CodeSharing.Lib.pdb
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\Xamarin.CodeSharing.Lib.dll.mdb
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\obj\iPhone\Debug\optimized\
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\obj\iPhone\Debug\Xamarin.CodeSharing.iOS.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\obj\iPhone\Debug\XamarinCodeSharingiOS.exe
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\obj\iPhone\Debug\XamarinCodeSharingiOS.pdb
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\obj\iPhone\Debug\XamarinCodeSharingiOS.exe.mdb
+C:\Projects\GitHub\xamarin-samples\xamarin-samples\Xamarin.CodeSharing\Xamarin.CodeSharing.iOS\bin\iPhone\Debug\XamarinCodeSharingiOS.exe.mdb
