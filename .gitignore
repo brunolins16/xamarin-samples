@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Xamarin.CodeSharing/Xamarin.CodeSharing.CrossUI/Xamarin.CodeSharing.CrossUI/obj/Release
