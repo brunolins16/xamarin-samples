@@ -3,3 +3,8 @@
 ################################################################################
 
 /Xamarin.CodeSharing/Xamarin.CodeSharing.CrossUI/Xamarin.CodeSharing.CrossUI/obj/Release
+/Xamarin.CodeSharing/Xamarin.CodeSharing.CrossUI/Xamarin.CodeSharing.CrossUI.Droid/obj/Release
+/Xamarin.CodeSharing/Xamarin.CodeSharing.CrossUI/Xamarin.CodeSharing.CrossUI.iOS/obj/iPhone/Release
+/Xamarin.CodeSharing/Xamarin.CodeSharing.CrossUI/Xamarin.CodeSharing.CrossUI.Windows/obj/Release
+/Xamarin.CodeSharing/Xamarin.CodeSharing.CrossUI/Xamarin.CodeSharing.CrossUI.WinPhone/obj/Release
+/Xamarin.CodeSharing/Xamarin.CodeSharing.Windows/obj/x86/Release
