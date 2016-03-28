@@ -29,12 +29,14 @@ namespace Xamarin.CodeSharing.Tests
         public void AppLaunches()
         {
             app.Screenshot("First screen.");
-            app.Tap( ap => ap.Marked("myButton").Button());
 
+            app.Tap( ap => ap.Marked("myButton").Button());
             app.Screenshot("First click.");
+
             var text = app.Query(ap => ap.Marked("myButton").Button()).FirstOrDefault().Text;
             Assert.AreEqual(text, "1 clicks!");
 
+            app.Tap(ap => ap.Marked("myButton").Button());
             app.Screenshot("Second click.");
             text = app.Query(ap => ap.Marked("myButton").Button()).FirstOrDefault().Text;
             Assert.AreEqual(text, "2 clicks!");
